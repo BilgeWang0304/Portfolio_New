@@ -8,7 +8,6 @@ import { cn } from "@/lib/utils";
 import { BackgroundGradientAnimation } from "./GradientBg";
 import animationData from "@/data/confetti.json";
 import MagicButton from "../MagicButton";
-import Lottie from "lottie-react";
 
 export const BentoGrid = ({
   className,
