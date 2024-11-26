@@ -81,7 +81,7 @@ export const navItems = [
     {
       id: 2,
       title: "LittleLemon-Restaurant Welcome Page",
-      des: "Simplify your video conferencing experience with Yoom. Seamlessly connect with colleagues and friends.",
+      des: "A Raect-based restaurant welcome page to enhance user experience.",
       img: "/p2.png",
       iconLists: ["/react.svg", "/js.svg", "/html.svg", "/css.svg"],
       link: "https://littlelemon-bw.netlify.app/",
@@ -89,15 +89,15 @@ export const navItems = [
     {
       id: 3,
       title: "Car Dealership Django Project",
-      des: "A REAL Software-as-a-Service app with AI features and a payments and credits system using the latest tech stack.",
+      des: "Built a full-stack car dealership app with Django, Node.js, MongoDB, and Docker for reviews and user management.",
       img: "/p3.png",
       iconLists: ["/django.svg", "/python.svg", "/react.svg", "/docker.svg", "/mongodb.svg"],
       link: "https://github.com/BilgeWang0304/full-stack-project",
     },
     {
       id: 4,
-      title: "WeatherGPT-Get Real-time Weather",
-      des: "Recreated the Apple iPhone 15 Pro website, combining GSAP animations and Three.js 3D effects..",
+      title: "WeatherGPT-Real-time Weather",
+      des: "Built with Next.js and Node.js that allows users to search for real-time weather data by location.",
       img: "/p4.png",
       iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
       link: "https://weathergpt-nextjs-9q49.vercel.app/",
